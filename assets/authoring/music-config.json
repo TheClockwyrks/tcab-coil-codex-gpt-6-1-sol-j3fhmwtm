@@ -1,0 +1,1 @@
+{"sample_rate": 44100, "channels": "stereo", "max_duration_ms": 16000, "seed": 42, "actions": "/work/assets/authoring/music-ops.json", "preview": "/work/assets/authoring/music-preview.png", "wav": "/work/assets/audio/music.wav", "mid": "/work/assets/authoring/music.mid", "instrument_bank": "synthwave"}

@@ -1,0 +1,11 @@
+[[media]]
+file = "combo.json.gz"
+name = "A hungry chain at x5"
+
+[[media]]
+file = "live.png"
+name = "Leave yourself an exit"
+
+[[media]]
+file = "title.png"
+name = "A small grid, endless appetite"
